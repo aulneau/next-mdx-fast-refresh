@@ -1,0 +1,19 @@
+{
+  "name": "with-mdx",
+  "version": "1.0.1",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^2.0.0-next.7",
+    "@next/mdx": "^9.1.1",
+    "fs-extra": "^9.0.1",
+    "next": "^9.5.2-canary.6",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
